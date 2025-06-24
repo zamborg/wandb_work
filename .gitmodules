@@ -1,0 +1,3 @@
+[submodule "litellm-wandb"]
+	path = litellm-wandb
+	url = https://github.com/zamborg/litellm-wandb
